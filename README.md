@@ -4,6 +4,14 @@ A simple and efficient to-do application built with Laravel. This application al
 
 Database file in the "DB" folder Database name is "todoapp"
 
+---------------------------------------
+login
+create new account and login
+
+this login credentials in this database 
+email: admin@gmail.com
+password: admin123
+
 ## Features
 
 - **User Authentication**:
